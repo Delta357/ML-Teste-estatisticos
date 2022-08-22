@@ -1,2 +1,2 @@
-# ML-Teste-estat-sticos
+# ML-teste estatísticos
 Teste estatísticos com machine learning
